@@ -1,5 +1,5 @@
 ## Example: This example creates a new virtual network in the same location as the Resource group , with the specified address space and subnet CIDRs.
-# The example uses this virtual network and subnets to deploys a Spirent TestCenter Virtual Machine from an Azure Marketplace image.
+# The example uses this virtual network and subnets to deploys a TestCenter Virtual Machine from an Azure Marketplace image.
 
 provider "azurerm" {
   version                    = ">=2.37.0"

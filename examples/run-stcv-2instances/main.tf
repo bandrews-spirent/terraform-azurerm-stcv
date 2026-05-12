@@ -1,4 +1,4 @@
-## Example : This Terraform module deploys Spirent TestCenter Virtual Machines from an Azure Marketplace image.
+## Example : This Terraform module deploys TestCenter Virtual Machines from an Azure Marketplace image.
 # The example requires the user to provide an already existing virtual network , management subnet, test subnet names.
 
 provider "azurerm" {
